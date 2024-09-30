@@ -1,9 +1,9 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Title     : Power Spectral Density for 4-QAM modulation that uses Gray encoding
-% Author	  : balarcode
-% Version	  : 1.1
-% Date		  : 29th September 2024
+% Author    : balarcode
+% Version   : 1.2
+% Date      : 29th September 2024
 % File Type : Matlab Script
 % File Test : Verified on Matlab R2024b
 % Comments  : From the power spectral density spectrum, it can be noticed that the 
