@@ -2,8 +2,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Title     : Simulation of a Rayleigh Fading Wireless Channel
 % Author    : balarcode
-% Version   : 1.0
-% Date      : 11th October 2024
+% Version   : 1.1
+% Date      : 6th November 2024
 % File Type : Matlab Script
 % File Test : Verified on Matlab R2024b
 % Comments  : Short-term fast fading of a wireless channel
@@ -18,6 +18,7 @@
 %%
 
 clear
+close all
 
 %-------------------------------------------------------------------------
 % Simulation Parameter Initialization
@@ -29,7 +30,7 @@ fd_max = 200;
 Ts = 0.1/fd_max;
 
 % Number of samples considered in the simulation
-num_samples = 10^5;
+num_samples = 10^6;
 
 M = 32;
 n = 1 : M;
@@ -69,6 +70,7 @@ for idx = 1 : M
 end
 % NOTE-1: r_i and r_q represent the Gaussian random variables for the in-phase and 
 %         quadrature-phase of the resultant Electric Field at the wireless receiver.
+%         These two Gaussian random variables are independent and identically distributed.
 % NOTE-2: Jakes Method uses Sum of Sinusoids to obtain the Gaussian random
 %         variables with Doppler shift and angle of arrival included.
 
@@ -84,7 +86,7 @@ magnitude_received_signal = abs(received_signal);
 %------------------------------------------------------------------------
 figure
 [rayleigh_fading_sim, X_sim] = hist(magnitude_received_signal, N);
-plot(X_sim, rayleigh_fading_sim'/(N*0.01), '-r', 'LineWidth', 2);
+plot(X_sim, rayleigh_fading_sim'/(N*0.107), '-r', 'LineWidth', 2);
 hold on;
 
 std_dev = 11;
