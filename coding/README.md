@@ -12,10 +12,10 @@ It is known that convolutional codes can be generated using a linear finite stat
 
 The plots below show the bit error rate (BER) performance of a MAP decoder implemented using BCJR algorithm and compared against a soft Viterbi decoder. It can be seen that both MAP and Soft Viterbi (which performs ML detection) have the same performance. The uncoded bit error rate and Shannon’s limit are also plotted for comparison. The BER performance is plotted for a rate 1/2 and 1/3, constraint length K = 3 and for generator polynomials g(1) = [1 0 0] and g(2) = [1 0 1] for rate 1/2 and g(1) = [1 0 0], g(2) = [1 0 1] and g(3) = [1 1 1] for rate 1/3.
 
-### BER Performance for a Rate 1/2 Systematic Convolutional Code
+#### BER Performance for a Rate 1/2 Systematic Convolutional Code
 
 ![BER Performance for a Rate 1/2 Systematic Convolutional Code](results/figure_MAP_BER_rate_1_by_2.png)
 
-### BER Performance for a Rate 1/3 Systematic Convolutional Code
+#### BER Performance for a Rate 1/3 Systematic Convolutional Code
 
 ![BER Performance for a Rate 1/3 Systematic Convolutional Code](results/figure_MAP_BER_rate_1_by_3.png)
