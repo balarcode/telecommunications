@@ -1,4 +1,4 @@
-## Maximum A Posteriori Decoding using BCJR Algorithm
+## Maximum A Posteriori Probability Decoding using BCJR Algorithm
 
 ### Introduction
 
