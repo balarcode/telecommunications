@@ -1,4 +1,4 @@
-## MIMO Wireless Receiver Optimal Detection & Performance Analysis
+## MIMO Wireless Receiver Optimal Detection Algorithms & Performance Analysis
 
 ### BPSK Spatial Modulation
 
