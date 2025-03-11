@@ -17,3 +17,9 @@ Diversity schemes or techniques in wireless communication aim at improving the w
 ![Received Signal](results/figure_selection_diversity_signal_rho03.jpg)
 
 ![Selection Diversity](results/figure_simulated_selection_diversity_rho03.jpg)
+
+## Citation
+
+Please note that the code and technical details made available are for educational purposes only. The repo is not open for collaboration.
+
+If you happen to use the code from this repo, please cite my user name along with link to my profile: https://github.com/balarcode. Thank you!
