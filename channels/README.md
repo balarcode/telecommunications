@@ -1,3 +1,10 @@
+# Wireless Channels
+
+The following wireless channels are simulated for illustration.
+1. Rayleigh Fading Wireless Channel
+2. Shadow Fading Wireless Channel
+
+
 ## Rayleigh Fading Wireless Channel
 
 ### Plot of Simulated and Theoretical Rayleigh Fading Wireless Channel
