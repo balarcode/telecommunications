@@ -3,8 +3,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Title     : Simulation of a Rayleigh Fading Wireless Channel
 % Author    : balarcode
-% Version   : 2.0
-% Date      : 13th November 2024
+% Version   : 2.1
+% Date      : 9th May 2025
 % File Type : Matlab Script
 % File Test : Verified on Matlab R2024b
 % Comments  : Short-term fast fading of a wireless channel
@@ -13,6 +13,7 @@
 %             and receiver and includes multipath propagation of a
 %             transmitted EM wave through multiple scatterers in the
 %             vicinity of the wireless receiver.
+%             Rayleigh fading channel is a statistical channel model.
 %
 % All Rights Reserved.
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
