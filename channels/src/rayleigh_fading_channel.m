@@ -3,8 +3,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Title     : Simulation of a Rayleigh Fading Wireless Channel
 % Author    : balarcode
-% Version   : 2.1
-% Date      : 9th May 2025
+% Version   : 2.2
+% Date      : 13th May 2025
 % File Type : Matlab Script
 % File Test : Verified on Matlab R2024b
 % Comments  : Short-term fast fading of a wireless channel
@@ -28,7 +28,8 @@ close all
 % Maximum Doppler frequency due to wireless receiver's motion
 fd_max = 200;
 
-% Sampling period (To be taken to be less than the Doppler period)
+% Sampling period (To be taken to be less than the Doppler period to keep 
+% ICI due to Doppler sufficiently low in time)
 Ts = 0.1/fd_max;
 fs = 1/Ts; % Sampling frequency
 
