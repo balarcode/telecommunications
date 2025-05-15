@@ -38,6 +38,26 @@ The following wireless channels are simulated for illustration.
 
 ![Shadow Fading Wireless Channel Signal Constellation](results/figure_shadow_fading_symbol_constellation.png)
 
+## Rician Fading Wireless Channel
+
+### Plot of Simulated and Theoretical Rician Fading Wireless Channel
+
+![Rician Fading Wireless Channel](results/figure_rician_fading_channel_distribution.png)
+
+### Signal Level of a Rician Fading Wireless Channel in dB
+
+NOTE: Rician factor, K << 1 indicates severe fading.
+
+![Rician Fading Wireless Channel Signal Level](results/figure_rician_fading_signal_level.png)
+
+### Autocorrelation Function of Rician Fading Wireless Channel Coefficients
+
+![Rician Fading Wireless Channel Autocorrelation](results/figure_rician_fading_auto_correlation.png)
+
+### Signal Constellation from Rician Fading Wireless Channel
+
+![Rician Fading Wireless Channel Signal Constellation](results/figure_rician_fading_symbol_constellation.png)
+
 ## Citation
 
 Please note that the code and technical details made available are for educational purposes only. The repo is not open for collaboration.
