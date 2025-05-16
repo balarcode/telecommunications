@@ -1,6 +1,6 @@
 # communication
 
-Practical implementation of selected algorithms, concepts and techniques in the field of communications.
+Practical implementation of selected algorithms, concepts and techniques in the field of telecommunications.
 
 The implementation includes insightful comments and notes for anyone interested in learning.
 
