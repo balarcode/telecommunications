@@ -1,4 +1,4 @@
-# communication
+# telecommunications
 
 Practical implementation of selected algorithms, concepts and techniques in the field of telecommunications.
 
