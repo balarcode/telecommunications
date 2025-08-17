@@ -12,7 +12,7 @@ NOTE: In beamforming (focussing a receiver), the antenna array weights (also cal
 
 In situations where the SOI is not known prior to detection, a wireless receiver array is said to be "blind". Blind adaptive beamforming is an elegant solution to this problem and can be quickly and easily implemented to extract one signal out of many interfering signals plus noise. However, multiple signals must be extracted and subsequently subtracted before the desired signal is found. The constant modulus algorithm (CMA) constraint for beamforming is a natural fit for this problem because it extracts signals from an array output by exploiting the low modulus fluctuation exhibited by most communications signals.
 
-The work done provides an analysis of the constrained constant modulus algorithm using Auxiliary Vector Filtering (AVF) for the case when a look-direction is already known. An additional analysis of the unconstrained constant modulus algorithm using a Recursive Least Squares (RLS) approach is provided for the case when the SOI is not known.
+The work done provides an analysis of the constrained constant modulus beamforming algorithm using Auxiliary Vector Filtering (AVF) for the case when a look-direction of the SOI is already known. An additional analysis of the unconstrained constant modulus beamforming algorithm using a Recursive Least Squares (RLS) approach is provided for the case when the SOI is not known.
 
 ### Simulation and Results
 
