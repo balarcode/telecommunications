@@ -14,7 +14,7 @@ The work done provides an analysis of the constrained constant modulus algorithm
 
 ### Simulation and Results
 
-#### Constrained Constant Modulus Algorithm using Auxiliary Vector Filtering
+#### Constrained Constant Modulus Beamforming Algorithm using Auxiliary Vector Filtering
 
 ![Source and Filtered Data](results/figure_ccm_avf_01.png)
 
@@ -22,7 +22,7 @@ The work done provides an analysis of the constrained constant modulus algorithm
 
 ![Absolute Error and SINR](results/figure_ccm_avf_02.png)
 
-#### Unconstrained Constant Modulus Algorithm using Recursive Least Squares Approach
+#### Unconstrained Constant Modulus Beamforming Algorithm using Recursive Least Squares Approach
 
 ![Source and Filtered Data](results/figure_rls_cma_01.png)
 
