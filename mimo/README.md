@@ -34,7 +34,9 @@ Spatial Modulation (SM) transmission technology for Multiple-Input Multiple-Outp
 
 Please note that the code and technical details made available are for educational purposes only. The repo is not open for collaboration.
 
-If you happen to use the code from this repo, please cite my user name along with link to my profile: https://github.com/balarcode. Thank you!
+If you happen to use the code from this repo, please use the below citation to cite. Thank you!
+
+balarcode (2025). *GitHub - balarcode/telecommunications: Practical implementation of selected algorithms, concepts and techniques in the field of telecommunications.* GitHub. https://github.com/balarcode/telecommunications
 
 ## Copyright
 
