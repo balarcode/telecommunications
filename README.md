@@ -12,6 +12,12 @@ The implementation includes insightful comments and notes for anyone interested 
 
 ### [Coding](https://github.com/balarcode/telecommunications/tree/main/coding)
 
+### [Diversity](https://github.com/balarcode/telecommunications/tree/main/diversity)
+
+### [Multiple-Input Multiple-Output (MIMO)](https://github.com/balarcode/telecommunications/tree/main/mimo)
+
+### [Modulation (Digital)](https://github.com/balarcode/telecommunications/tree/main/modulation)
+
 ## Citation
 
 Please note that the code and technical details made available are for educational purposes only. The repo is not open for collaboration.
