@@ -8,6 +8,10 @@ The implementation includes insightful comments and notes for anyone interested 
 
 ### [Beamforming](https://github.com/balarcode/telecommunications/tree/main/beamforming)
 
+### [Wireless Channels](https://github.com/balarcode/telecommunications/tree/main/channels)
+
+### [Coding](https://github.com/balarcode/telecommunications/tree/main/coding)
+
 ## Citation
 
 Please note that the code and technical details made available are for educational purposes only. The repo is not open for collaboration.
