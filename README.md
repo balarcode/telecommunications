@@ -8,7 +8,7 @@ The implementation includes insightful comments and notes for anyone interested 
 
 ### [Beamforming](https://github.com/balarcode/telecommunications/tree/main/beamforming)
 
-### [Wireless Channels](https://github.com/balarcode/telecommunications/tree/main/channels)
+### [Channels](https://github.com/balarcode/telecommunications/tree/main/channels)
 
 ### [Coding](https://github.com/balarcode/telecommunications/tree/main/coding)
 
@@ -16,7 +16,7 @@ The implementation includes insightful comments and notes for anyone interested 
 
 ### [Multiple-Input Multiple-Output (MIMO)](https://github.com/balarcode/telecommunications/tree/main/mimo)
 
-### [Modulation (Digital)](https://github.com/balarcode/telecommunications/tree/main/modulation)
+### [Modulation](https://github.com/balarcode/telecommunications/tree/main/modulation)
 
 ## Citation
 
